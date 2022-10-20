@@ -1,0 +1,195 @@
+
+/*Encabezado Página*/
+
+.encabezado{
+
+    width: 90%;
+    height: 70px;    
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 5px;
+    margin-bottom: 5px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    background-color:white;
+
+}
+.logo{
+   
+   height: 15px;
+   width: 15px;
+   margin-top: 10px;
+}
+
+.barranav1{
+    background-color: white;
+    height: fit-content;
+    width: fit-content;
+    margin-left: 80px;
+    
+}
+.txtnav1{
+    font-family: 'Roboto', sans-serif;
+    font-size: small;
+}
+
+.botones{
+    background-color: white;
+    height: fit-content;
+    width: fit-content;
+    margin-left: 850px;
+    margin-top: 1px;
+    word-spacing: 15px;
+}
+.button1 {
+    background-color:white;
+    color: black;    
+    border-radius: 12px;
+    border-color: #999999;
+    cursor:pointer;
+    width: fit-content;
+    height: 28px;
+  }
+
+  .button2 {
+    background-color:black;
+    color: white;    
+    border-radius: 12px;
+    border-bottom-style: hidden;
+    cursor: pointer;
+    width: fit-content;
+    height: 28px;
+}
+
+/*Sección 1 color verde*/
+
+.secc1{
+    
+    background-color: #016241;
+    width: 90%;
+    height: 330px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 5px;
+    
+}
+
+.texto1{
+    font-family: 'Roboto', sans-serif; 
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 7px;
+    line-height: .5;
+    
+}   
+
+.texto2{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+/*Sección Alebrijes Mexicanos*/
+
+.secc2{
+    
+    background-color: #d40032;
+    width: 90%;
+    height: 350px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 25px;
+    
+}
+
+.txt3{
+    font-family: 'Roboto',sans-serif;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 7px;
+    line-height: .5;
+    margin-top: 3px;
+ }
+
+.txt4{
+    font-family: 'Roboto',sans-serif;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 7px;
+    line-height: .5;
+    margin-top: 3px;
+ }
+
+.btn{
+
+    text-align: center;
+    margin-top: 50px;
+}
+
+.button3{
+    background-color:transparent;
+    color: white;    
+    border-radius: 12px;
+    border-color:  white;
+    cursor: pointer;
+    width: fit-content;
+    height: 28px;
+    
+  }
+
+/*Sección Creatividad e Imaginación*/
+
+.secc3{
+
+    background-color: #d40032;
+    width: 90%;
+    height: 350px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 25px;
+    
+}
+
+.txt5{
+    font-family: 'Roboto',sans-serif;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 7px;
+    line-height: .5;
+    margin-top: 3px;
+ }
+
+.txt6{
+    font-family: 'Roboto',sans-serif;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 7px;
+    line-height: .5;
+    margin-top: 3px;
+ }
+.button4{
+    background-color:transparent;
+    color: white;    
+    border-radius: 12px;
+    border-color:  white;
+    cursor: pointer;
+    width: fit-content;
+    height: 28px;
+    
+  }
+
+  /*Footer*/
+
+  .piepag{
+    width: 84%;
+    height: 130px;
+    background-color: white;
+    margin-left: 8%;
+    margin-top: 30px;
+    border-top: 3px solid;
+    border-color: #ededed;
+    padding-top: 20px;
+    
+  }
+  
